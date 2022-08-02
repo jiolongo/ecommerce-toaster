@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body,html{
+    padding: 0;
+    margin: 0;
+   
+}
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    overflow: hidden;
+}
+
+  
+  .navigation{
+    background-color: rgb(255,255,255);
+    background-color: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,142,41,1) 13%, rgba(255,215,215,1) 100%);
+  }
+  
+    .gradient{
+      background: rgb(255,255,255);
+      background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,142,41,1) 13%, rgba(255,215,215,1) 100%);
+    }
+  
+   .page-header{
+    margin-top:  4rem;
+    font-size: 1.25rem;
+    color: white;
+   }
+    
